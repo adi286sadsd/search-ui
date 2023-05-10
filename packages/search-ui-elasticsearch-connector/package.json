@@ -41,6 +41,6 @@
   "dependencies": {
     "@elastic/elasticsearch": "^8.2.1",
     "@elastic/search-ui": "1.20.2",
-    "@searchkit/sdk": "^3.0.0"
+    "@searchkit/sdk": "https://github.com/adi286sadsd/searchkit/tree/v3.0.0/packages/searchkit-sdk"
   }
 }
